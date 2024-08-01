@@ -166,6 +166,7 @@ import { AirbyteIcon } from "../icons/Airbyte";
 import { AnthropicIcon } from "../icons/Anthropic";
 import { AstraDBIcon } from "../icons/AstraDB";
 import { AzureIcon } from "../icons/Azure";
+import { AtlassianIcon } from "../icons/Atlassian";
 import { BingIcon } from "../icons/Bing";
 import { BotMessageSquareIcon } from "../icons/BotMessageSquare";
 import { CassandraIcon } from "../icons/Cassandra";
@@ -590,4 +591,5 @@ export const nodeIconsLucide: iconsType = {
   AIML: AIMLIcon,
   "AI/ML": AIMLIcon,
   GitLoader: GitLoaderIcon,
+  Atlassian: AtlassianIcon,
 };

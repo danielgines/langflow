@@ -4,6 +4,7 @@ from .SQLAgent import SQLAgentComponent
 from .VectorStoreAgent import VectorStoreAgentComponent
 from .VectorStoreRouterAgent import VectorStoreRouterAgentComponent
 from .XMLAgent import XMLAgentComponent
+from .AtlassianAgent import AtlassianAgentComponent
 
 __all__ = [
     "CSVAgentComponent",
@@ -12,4 +13,5 @@ __all__ = [
     "VectorStoreAgentComponent",
     "VectorStoreRouterAgentComponent",
     "XMLAgentComponent",
+    "AtlassianAgentComponent",
 ]
